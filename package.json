@@ -1,7 +1,7 @@
 {
   "name": "moment-precise-range-min",
   "version": "1.0.0",
-  "description": "This is a plugin for the moment.js JavaScript library, to display date/time ranges precisely, in a human-readable format.",
+  "description": "This is a minified distribution of the sizemoment-precise-range-plugin package. The original package is a plugin for the moment.js JavaScript library, to display date/time ranges precisely, in a human-readable format.",
   "homepage": "https://github.com/Jackymancs4/moment-precise-range",
   "bugs": {
     "url": "https://github.com/Jackymancs4/moment-precise-range/issues"
